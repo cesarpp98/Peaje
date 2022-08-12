@@ -1,0 +1,28 @@
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\bin\Debug\PeajeApp.GUI.exe.config
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\bin\Debug\PeajeApp.GUI.exe
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\bin\Debug\PeajeApp.GUI.pdb
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.ContadorDeVehiculos.resources
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.Login.resources
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.RegistrodeVehiculo.resources
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.PanelPrincipal.resources
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.Properties.Resources.resources
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.ReporteGeneral.resources
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.csproj.GenerateResource.Cache
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.exe
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.pdb
+E:\Users\cesar\Documents\TERCER SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\Aplicaciones\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.csprojResolveAssemblyReference.cache
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\bin\Debug\PeajeApp.GUI.exe.config
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\bin\Debug\PeajeApp.GUI.exe
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\bin\Debug\PeajeApp.GUI.pdb
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.csproj.SuggestedBindingRedirects.cache
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.ContadorDeVehiculos.resources
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.Login.resources
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.RegistrodeVehiculo.resources
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.PanelPrincipal.resources
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.Properties.Resources.resources
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.ReporteGeneral.resources
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.csproj.GenerateResource.cache
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.exe
+D:\Users\Usuario\Documents\proyectos\Peaje\PeajeApp.GUI\obj\Debug\PeajeApp.GUI.pdb

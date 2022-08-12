@@ -1,0 +1,36 @@
+﻿464322707;Nacional;Efectivo;XCF987;Pequeño;Basica;15.550;
+
+809232243;Nacional;Efectivo;ZXR095;Mediano;Mediana;20.500;
+
+130388185;Segundaria;Efectivo;ASW340;Grande;Alta;25.500;
+
+159508647;Nacional;Efectivo;XYZ930;Mediano;Mediana;20.500;
+
+390360157;Departamental;Tarjeta débito;AWR201;Pequeño;Basica;15.500;
+
+925708691;Departamental;Tarjeta crédito;VZP035;Mediano;Mediana;20.500;
+
+661315914;Departamental;Tarjeta débito;CWQ187;Mediano;Mediana;20.500;
+
+118189630;Departamental;Efectivo;OMN990;Grande;Alta;25.500;
+
+970844121;Segundaria;Tarjeta crédito;ZCF345;Mediano;Mediana;20.500;
+
+661563195;Departamental;Efectivo;QWM329;Pequeño;Basica;15.500;
+
+827546368;Segundaria;Tarjeta débito;BGF185;Grande;Alta;25.500;
+
+921426628;Nacional;Tarjeta débito;IAM123;Pequeño;Mediana;20.500;
+
+732567973;Departamental;Tarjeta débito;DJC492;Pequeño;Mediana;20.500;
+
+312414314;Departamental;Tarjeta débito;DKK239;Pequeño;Basica;15.500;
+
+326530653;Departamental;Tarjeta crédito;EIE294;Pequeño;Mediana;20.500;
+
+953526177;Nacional;Tarjeta débito;GTR234;Grande;Alta;25.500;
+
+329834930;Departamental;Efectivo;XXX213;Pequeño;Basica;15.500;
+
+663904292;Departamental;Tarjeta débito;;Grande;Alta;25.500;
+
